@@ -9,10 +9,6 @@ Este repositório contém a implementação completa, automatizada e documentada
 ```text
 ├── docker-stack.yml                      # Manifesto declarativo da stack de serviços para ambiente multi-nó
 ├── docker-stack.single-node.yml          # Manifesto adaptado para testes rápidos em nó único (manager/local)
-├── generate_docx.py                      # Script gerador do relatório Word (.docx) formatado
-├── ENTREGA_FASE2_DOCKER_SWARM.md         # Relatório completo da entrega em Markdown (para leitura/GitHub)
-├── ENTREGA_Fase2_Docker_Swarm.docx       # Arquivo Word preenchido no template oficial para entrega
-├── TEMPLATE ENTREGA_Fase 2_...docx       # Template original de referência
 ├── nginx/
 │   └── default.conf                      # Configuração do Nginx (Reverse proxy, /health check e balanceamento)
 └── scripts/
