@@ -98,17 +98,6 @@ O script executa e comprova os seguintes cenários:
 
 ---
 
-## 📄 Arquivos de Entrega da Atividade
-
-1. **Documento Word Oficial:**  
-   `ENTREGA_Fase2_Docker_Swarm.docx`  
-   *Preenchido e formatado rigorosamente de acordo com o template oficial, contendo tabelas estilizadas, caixas de código sombreadas, comandos detalhados e análise crítica para as 5 seções requeridas.*
-2. **Documento Markdown de Consulta:**  
-   `ENTREGA_FASE2_DOCKER_SWARM.md`  
-   *Versão completa em Markdown com diagramas Mermaid, equações matemáticas de quorum Raft e detalhamento arquitetural.*
-
----
-
 ## 🧹 Limpeza do Ambiente
 Para remover a stack e os recursos criados após concluir os testes:
 ```powershell
